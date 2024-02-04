@@ -1,0 +1,24 @@
+/* dark-theme.css */
+
+body {
+    background-color: #121212; /* Dark background color */
+    color: #ffffff; /* Light text color */
+}
+
+.sidebar {
+    background-color: #1e1e1e; /* Dark sidebar background color */
+}
+
+.navbar {
+    background-color: #1e1e1e; /* Dark topbar background color */
+}
+
+.nav-link {
+    color: #ffffff !important; /* Light text color for navigation links */
+}
+
+.navbar-toggler-icon {
+    background-color: #ffffff; /* Light color for the toggler icon */
+}
+
+/* Add any additional styling for dark theme as needed */
